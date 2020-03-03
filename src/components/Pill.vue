@@ -30,6 +30,7 @@ export default {
 .pill {
   display: inline-block;
   vertical-align: middle;
+  line-height: var(--font-size-smaller);
   font-size: var(--font-size-smaller);
   border-radius: var(--pill-border-radius);
   padding: var(--pill-padding-vertical) var(--pill-padding-horizontal);
