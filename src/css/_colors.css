@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #000000;
+    --secondary-color: #FFFFFF;
+
+    --danger-color: #dd0000;
+
+    --shade-color-3: #333333;
+    --shade-color-2: #666666;
+    --shade-color-1: #EAEAEA;
+}

@@ -1,0 +1,34 @@
+:root {
+    --border-radius-small: 0.2625rem;
+
+    /* button */
+    --button-md-min-width: 8rem;
+
+    --button-padding-vertical: 0.65rem;
+    --button-padding-horizontal: 1rem;
+
+    --button-padding-vertical-small: .25rem;
+    --button-padding-horizontal-small: .75rem;
+
+    /* Pill */
+    
+    --pill-border-radius: 0.625rem;
+    --pill-padding-vertical: 0.1875rem;
+    --pill-padding-horizontal: 0.4375rem;
+
+    /* lists */
+
+    --list-margin-vertical: 1rem;
+
+    /* icons */
+
+    --icon-spacing: .5rem;
+    --icon-size: 1.25rem;
+
+    /* animation duration */
+
+    --background-transition: 0.15s ease;
+    --color-transition: 0.15s ease;
+    --shadow-transition: 0.15s ease;
+    --transform-transition: 0.25s ease;
+}

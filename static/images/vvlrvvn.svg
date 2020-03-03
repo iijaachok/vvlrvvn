@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="240px" viewBox="0 0 50 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A" transform="translate(14.000000, 7.000000)" fill="#DD0000" fill-rule="nonzero">
+            <path d="M5,0 L10,10 L0,10 L5,0 Z M5,2 L1.5,9 L8.5,9 L5,2 Z"></path>
+        </g>
+        <g id="A" transform="translate(39.000000, 12.000000) scale(1, -1) translate(-39.000000, -12.000000) translate(34.000000, 7.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M5,0 L10,10 L0,10 L5,0 Z M5,2 L1.5,9 L8.5,9 L5,2 Z"></path>
+        </g>
+        <path d="M26,4.5 L26,20.5" id="Line" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+        <g id="V" transform="translate(8.000000, 7.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M1,0 L5,8 L9,0 L10,0 L5,10 L0,0 L1,0 Z"></path>
+        </g>
+        <g id="V" transform="translate(33.000000, 12.000000) scale(1, -1) translate(-33.000000, -12.000000) translate(28.000000, 7.000000)" fill="#DD0000" fill-rule="nonzero">
+            <path d="M1,0 L5,8 L9,0 L10,0 L5,10 L0,0 L1,0 Z"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,61 @@
+{
+  "name": "vvlrvvn",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production rollup --config build/rollup.config.js",
+    "lint": "vue-cli-service lint",
+    "build-storybook": "build-storybook -s static",
+    "build:es": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format es",
+    "build:ssr": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format cjs",
+    "build:unpkg": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format iife",
+    "storybook": "start-storybook -s ./static -p 6006"
+  },
+  "main": "dist/vvlrvvn.ssr.js",
+  "module": "dist/vvlrvvn.esm.js",
+  "unpkg": "dist/vvlrvvn.min.js",
+  "files": [
+    "dist/*",
+    "src/**/*.vue",
+    "!src/lib-dev.vue"
+  ],
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@rollup/plugin-alias": "^3.0.1",
+    "@rollup/plugin-buble": "^0.21.1",
+    "@rollup/plugin-replace": "^2.2.1",
+    "@storybook/addon-actions": "^5.2.6",
+    "@storybook/addon-knobs": "^5.2.6",
+    "@storybook/addon-links": "^5.2.6",
+    "@storybook/addons": "^5.2.6",
+    "@storybook/vue": "^5.2.6",
+    "@vue/cli-plugin-eslint": "^4.0.5",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-vue": "^2.0.2",
+    "cross-env": "^7.0.0",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^6.0.0",
+    "minimist": "^1.2.0",
+    "prettier": "^1.19.1",
+    "rollup": "^1.26.3",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-postcss": "^2.1.1",
+    "rollup-plugin-terser": "^5.1.2",
+    "rollup-plugin-vue": "5.1.6",
+    "tachyons": "^4.11.1",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
