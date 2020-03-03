@@ -253,7 +253,7 @@ var script$2 = {
   }
 };
 
-var css$2 = ".pill[data-v-28c37ee2]{display:inline-block;vertical-align:middle;font-size:var(--font-size-smaller);border-radius:var(--pill-border-radius);padding:var(--pill-padding-vertical) var(--pill-padding-horizontal);border:1px solid transparent}.pill.primary[data-v-28c37ee2]{color:var(--secondary-color);background-color:var(--primary-color)}.pill.secondary[data-v-28c37ee2]{color:var(--primary-color);border-color:var(--primary-color);background-color:var(--secondary-color)}";
+var css$2 = ".pill[data-v-36af9d10]{display:inline-block;vertical-align:middle;line-height:var(--font-size-smaller);font-size:var(--font-size-smaller);border-radius:var(--pill-border-radius);padding:var(--pill-padding-vertical) var(--pill-padding-horizontal);border:1px solid transparent}.pill.primary[data-v-36af9d10]{color:var(--secondary-color);background-color:var(--primary-color)}.pill.secondary[data-v-36af9d10]{color:var(--primary-color);border-color:var(--primary-color);background-color:var(--secondary-color)}";
 styleInject(css$2);
 
 /* script */
@@ -265,7 +265,7 @@ var __vue_staticRenderFns__$2 = [];
   /* style */
   var __vue_inject_styles__$2 = undefined;
   /* scoped */
-  var __vue_scope_id__$2 = "data-v-28c37ee2";
+  var __vue_scope_id__$2 = "data-v-36af9d10";
   /* module identifier */
   var __vue_module_identifier__$2 = undefined;
   /* functional template */
