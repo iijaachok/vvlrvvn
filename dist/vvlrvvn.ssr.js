@@ -470,37 +470,7 @@ var __vue_staticRenderFns__$5 = [];
     undefined,
     createInjectorSSR,
     undefined
-  );var components=/*#__PURE__*/Object.freeze({__proto__:null,VvlButton: __vue_component__,VvlCard: __vue_component__$1,VvlPill: __vue_component__$2,VvlChecklist: __vue_component__$5});function styleInject(css, ref) {
-  if ( ref === void 0 ) { ref = {}; }
-  var insertAt = ref.insertAt;
-
-  if (!css || typeof document === 'undefined') { return; }
-
-  var head = document.head || document.getElementsByTagName('head')[0];
-  var style = document.createElement('style');
-  style.type = 'text/css';
-
-  if (insertAt === 'top') {
-    if (head.firstChild) {
-      head.insertBefore(style, head.firstChild);
-    } else {
-      head.appendChild(style);
-    }
-  } else {
-    head.appendChild(style);
-  }
-
-  if (style.styleSheet) {
-    style.styleSheet.cssText = css;
-  } else {
-    style.appendChild(document.createTextNode(css));
-  }
-}var css = ":root {\n    --primary-color: #000000;\n    --secondary-color: #FFFFFF;\n\n    --danger-color: #dd0000;\n\n    --shade-color-3: #333333;\n    --shade-color-2: #666666;\n    --shade-color-1: #EAEAEA;\n}";
-styleInject(css);var css$1 = ":root {\n    --font-size-small: 0.875rem;\n    --font-size-smaller: 0.75rem;\n}";
-styleInject(css$1);var css$2 = ":root {\n    --border-radius-small: 0.2625rem;\n\n    /* button */\n    --button-md-min-width: 8rem;\n\n    --button-padding-vertical: 0.65rem;\n    --button-padding-horizontal: 1rem;\n\n    --button-padding-vertical-small: .25rem;\n    --button-padding-horizontal-small: .75rem;\n\n    /* Pill */\n    \n    --pill-border-radius: 0.625rem;\n    --pill-padding-vertical: 0.1875rem;\n    --pill-padding-horizontal: 0.4375rem;\n\n    /* lists */\n\n    --list-margin-vertical: 1rem;\n\n    /* icons */\n\n    --icon-spacing: .5rem;\n    --icon-size: 1.25rem;\n\n    /* animation duration */\n\n    --background-transition: 0.15s ease;\n    --color-transition: 0.15s ease;\n    --shadow-transition: 0.15s ease;\n    --transform-transition: 0.25s ease;\n}";
-styleInject(css$2);var css$3 = ":root {\n    --shadow-small: 0 4px 12px rgba(0,0,0,.1);\n    --shadow-medium: 0 8px 30px rgba(0,0,0,.1);\n}";
-styleInject(css$3);var css$4 = ":root {\n    --translate-raise-small: translate3d(0px, -1px, 0px);\n}";
-styleInject(css$4);// Import vue components
+  );var components=/*#__PURE__*/Object.freeze({__proto__:null,VvlButton: __vue_component__,VvlCard: __vue_component__$1,VvlPill: __vue_component__$2,VvlChecklist: __vue_component__$5});// Import vue components
 
 // install function executed by Vue.use()
 function install(Vue) {

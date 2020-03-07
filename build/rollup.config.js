@@ -28,7 +28,7 @@ const baseConfig = {
           '@': path.resolve(projectRoot, 'src')
         }
       }),
-      postcss({ extensions: ['.css'] })
+      postcss({ extensions: ['.css'], extract: true })
     ],
     vue: {
       css: false,
