@@ -312,13 +312,13 @@ var __vue_staticRenderFns__$3 = [];
   /* style */
   var __vue_inject_styles__$3 = function (inject) {
     if (!inject) { return }
-    inject("data-v-508387dd_0", { source: ".checkmark[data-v-508387dd]{width:var(--icon-size);height:100%;border-radius:50%;display:inline-block;stroke-width:5;stroke:inherit;stroke-miterlimit:10}.checkmark-done[data-v-508387dd]{animation:ease-in-out .2s forwards,scale-data-v-508387dd .3s ease-in-out .1s both}.checkmark__circle[data-v-508387dd]{stroke-dasharray:166;stroke-dashoffset:166;stroke-width:5;stroke-miterlimit:10;animation:stroke-data-v-508387dd .8s cubic-bezier(.65,0,.45,1) forwards}.checkmark__check[data-v-508387dd]{transform-origin:50% 50%;stroke-dasharray:48;stroke-dashoffset:48;animation:stroke-data-v-508387dd .3s cubic-bezier(.65,0,.45,1) .3s forwards}@keyframes stroke-data-v-508387dd{100%{stroke-dashoffset:0}}@keyframes scale-data-v-508387dd{0%,100%{transform:none}30%{transform:scale3d(1.2,1.2,0)}}", map: undefined, media: undefined });
+    inject("data-v-a8313374_0", { source: ".checkmark[data-v-a8313374]{width:var(--icon-size);height:100%;border-radius:50%;display:inline-block;stroke:var(--color-accent);stroke-width:5;stroke-miterlimit:10}.checkmark-done[data-v-a8313374]{animation:ease-in-out .2s forwards,scale-data-v-a8313374 .3s ease-in-out .1s both}.checkmark__circle[data-v-a8313374]{stroke-dasharray:166;stroke-dashoffset:166;stroke-width:5;stroke-miterlimit:10;animation:stroke-data-v-a8313374 .8s cubic-bezier(.65,0,.45,1) forwards}.checkmark__check[data-v-a8313374]{transform-origin:50% 50%;stroke-dasharray:48;stroke-dashoffset:48;animation:stroke-data-v-a8313374 .3s cubic-bezier(.65,0,.45,1) .3s forwards}@keyframes stroke-data-v-a8313374{100%{stroke-dashoffset:0}}@keyframes scale-data-v-a8313374{0%,100%{transform:none}30%{transform:scale3d(1.2,1.2,0)}}", map: undefined, media: undefined });
 
   };
   /* scoped */
-  var __vue_scope_id__$3 = "data-v-508387dd";
+  var __vue_scope_id__$3 = "data-v-a8313374";
   /* module identifier */
-  var __vue_module_identifier__$3 = "data-v-508387dd";
+  var __vue_module_identifier__$3 = "data-v-a8313374";
   /* functional template */
   var __vue_is_functional_template__$3 = false;
   /* style inject shadow dom */

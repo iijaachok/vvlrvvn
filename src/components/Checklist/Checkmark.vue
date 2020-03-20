@@ -27,8 +27,8 @@ export default {
   height: 100%;
   border-radius: 50%;
   display: inline-block;
+  stroke: var(--color-accent);
   stroke-width: 5;
-  stroke: inherit;
   stroke-miterlimit: 10;
 }
 
