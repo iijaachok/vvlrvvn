@@ -260,13 +260,13 @@ var __vue_staticRenderFns__$2 = [];
   /* style */
   var __vue_inject_styles__$2 = function (inject) {
     if (!inject) { return }
-    inject("data-v-36af9d10_0", { source: ".pill[data-v-36af9d10]{display:inline-block;vertical-align:middle;line-height:var(--font-size-smaller);font-size:var(--font-size-smaller);border-radius:var(--pill-border-radius);padding:var(--pill-padding-vertical) var(--pill-padding-horizontal);border:1px solid transparent}.pill.primary[data-v-36af9d10]{color:var(--secondary-color);background-color:var(--primary-color)}.pill.secondary[data-v-36af9d10]{color:var(--primary-color);border-color:var(--primary-color);background-color:var(--secondary-color)}", map: undefined, media: undefined });
+    inject("data-v-f25458ec_0", { source: ".pill[data-v-f25458ec]{display:inline-block;vertical-align:middle;line-height:var(--font-size-smaller);font-size:var(--font-size-smaller);border-radius:var(--pill-border-radius);padding:var(--pill-padding-vertical) var(--pill-padding-horizontal);border:1px solid transparent}.pill.primary[data-v-f25458ec]{color:var(--secondary-color);background-color:var(--accent-color)}.pill.secondary[data-v-f25458ec]{color:var(--accent-color);border-color:var(--accent-color);background-color:var(--secondary-color)}", map: undefined, media: undefined });
 
   };
   /* scoped */
-  var __vue_scope_id__$2 = "data-v-36af9d10";
+  var __vue_scope_id__$2 = "data-v-f25458ec";
   /* module identifier */
-  var __vue_module_identifier__$2 = "data-v-36af9d10";
+  var __vue_module_identifier__$2 = "data-v-f25458ec";
   /* functional template */
   var __vue_is_functional_template__$2 = false;
   /* style inject shadow dom */
@@ -369,13 +369,13 @@ var __vue_staticRenderFns__$4 = [];
   /* style */
   var __vue_inject_styles__$4 = function (inject) {
     if (!inject) { return }
-    inject("data-v-659adf9e_0", { source: ".checklist-item[data-v-659adf9e]{cursor:pointer}.checklist-item--text[data-v-659adf9e]{vertical-align:middle}.checklist-item--text-complete[data-v-659adf9e]{color:var(--shade-color-2)}.checklist--checkmark[data-v-659adf9e]{stroke:var(--danger-color);margin-right:var(--icon-spacing);vertical-align:middle}", map: undefined, media: undefined });
+    inject("data-v-da90c33e_0", { source: ".checklist-item[data-v-da90c33e]{cursor:pointer}.checklist-item--text[data-v-da90c33e]{vertical-align:middle;color:var(--primary-color);transition:color var(--color-transition)}.checklist-item--text-complete[data-v-da90c33e]{color:var(--shade-color-2)}.checklist--checkmark[data-v-da90c33e]{stroke:var(--accent-color);margin-right:var(--icon-spacing);vertical-align:middle}", map: undefined, media: undefined });
 
   };
   /* scoped */
-  var __vue_scope_id__$4 = "data-v-659adf9e";
+  var __vue_scope_id__$4 = "data-v-da90c33e";
   /* module identifier */
-  var __vue_module_identifier__$4 = "data-v-659adf9e";
+  var __vue_module_identifier__$4 = "data-v-da90c33e";
   /* functional template */
   var __vue_is_functional_template__$4 = false;
   /* style inject shadow dom */
