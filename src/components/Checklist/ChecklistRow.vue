@@ -36,6 +36,8 @@ export default {
 
 .checklist-item--text {
   vertical-align: middle;
+  color: var(--primary-color);
+  transition: color var(--color-transition);
 }
 
 .checklist-item--text-complete {
@@ -43,7 +45,7 @@ export default {
 }
 
 .checklist--checkmark {
-  stroke: var(--danger-color);
+  stroke: var(--primary-color);
   margin-right: var(--icon-spacing);
   vertical-align: middle;
 }
