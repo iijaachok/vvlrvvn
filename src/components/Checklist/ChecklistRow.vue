@@ -45,7 +45,7 @@ export default {
 }
 
 .checklist--checkmark {
-  stroke: var(--primary-color);
+  stroke: var(--accent-color);
   margin-right: var(--icon-spacing);
   vertical-align: middle;
 }

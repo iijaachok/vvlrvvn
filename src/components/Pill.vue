@@ -39,12 +39,12 @@ export default {
 
 .pill.primary {
   color: var(--secondary-color);
-  background-color: var(--primary-color);
+  background-color: var(--accent-color);
 }
 
 .pill.secondary {
-  color: var(--primary-color);
-  border-color: var(--primary-color);
+  color: var(--accent-color);
+  border-color: var(--accent-color);
   background-color: var(--secondary-color);
 }
 </style>
